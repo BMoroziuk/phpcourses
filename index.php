@@ -8,6 +8,15 @@
     <title>Document</title>
 </head>
 <body>
-    ssnbbhb
+<?php
+$name = "php";
+echo 'Name $name ', "$name ";
+$link = "https://www.google.com/";
+?>
+<a href="<?= $link ?>">Google</a>
+<?php
+echo '<a href="' . $link . '">Google</a>'
+
+?>
 </body>
 </html>
