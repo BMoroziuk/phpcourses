@@ -4,13 +4,4 @@ echo ++$a . "<br>";
 echo $a++ . "<br>";
 echo --$a . "<br>";
 echo $a--;
-
-
-
-
-
-
-
-
-
 ?>
